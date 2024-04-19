@@ -41,6 +41,14 @@ I am passionate about collaborative endeavors and continuous learning, constantl
 
 ---
 
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/abinrimal/)
+- [Twitter](https://twitter.com/abinrimal)
+- Email: abinrimal7@gmail.com
+
+---
+
 ## GitHub Stats
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abinrimal&show_icons=true&locale=en&layout=compact" alt="abinrimal" /></p>
