@@ -8,9 +8,9 @@ Experienced Software Engineer | Full-Stack Developer | PHP Laravel Developer | P
 
 I am a seasoned Software Engineer with a rich background in the computer software industry spanning over six years. My expertise lies in proficiently utilizing a diverse range of technologies to deliver robust solutions. Throughout my career, I have assumed various roles, from technical trainer and web developer to team lead, project manager, and entrepreneur.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abinrimal&label=Profile%20views&color=0e75b6&style=flat" alt="abinrimal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abinrimal&label=Profile%20views&color=0e75b6&style=flat&theme=onestar" alt="abinrimal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abinrimal" alt="abinrimal" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abinrimal&theme=onestar" alt="abinrimal" /></a> </p>
 
 ---
 
@@ -51,6 +51,6 @@ I am passionate about collaborative endeavors and continuous learning, constantl
 
 ## GitHub Stats
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abinrimal&show_icons=true&locale=en&layout=compact" alt="abinrimal" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abinrimal&show_icons=true&locale=en&layout=compact&theme=onestar" alt="abinrimal" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abinrimal&" alt="abinrimal" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abinrimal&theme=onestar" alt="abinrimal" /></p>
