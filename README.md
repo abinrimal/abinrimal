@@ -1,12 +1,12 @@
 # Abin Rimal
 
-Experienced Software Engineer | Full-Stack Developer | PHP Laravel Developer | Python Developer | Project Manager
+Experienced Software Engineer | Full-Stack Developer | PHP Laravel Developer | Python Django Developer | REST API | Shopify | Wordpress | Docker | AWS
 
 ---
 
 ## About Me
 
-I am a seasoned Software Engineer with a rich background in the computer software industry spanning over six years. My expertise lies in proficiently utilizing a diverse range of technologies to deliver robust solutions. Throughout my career, I have assumed various roles, from technical trainer and web developer to team lead, project manager, and entrepreneur.
+I am a seasoned Software Engineer with a rich background in industry from 2016 A.D. My expertise lies in proficiently utilizing a diverse range of technologies to deliver robust Applications. Throughout my career, I have assumed various roles, from technical trainer and web developer to team lead, project manager, and Founder of Software Development House.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abinrimal&label=Profile%20views&color=0e75b6&style=flat&theme=onestar" alt="abinrimal" /> </p>
 
