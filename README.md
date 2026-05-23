@@ -53,7 +53,7 @@ I enjoy building **systems that scale, perform, and solve real business problems
 
 **Languages:** Python, PHP, JavaScript  
 **Backend:** Django, FastAPI, Laravel  
-**Frontend:** HTML, CSS, JavaScript, Vue.js (basic/working knowledge)  
+**Frontend:** HTML, CSS, JavaScript, Next.js, Vue.js
 **Databases:** MySQL, PostgreSQL, MongoDB  
 **Cloud/DevOps:** AWS, Docker, Nginx, Linux  
 **Tools:** Git, CI/CD, REST APIs
